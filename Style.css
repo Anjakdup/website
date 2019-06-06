@@ -1,0 +1,148 @@
+ .uppanel { 
+	background-color: #305633; 
+	height: 150px;
+ } 
+ .midpanel { 
+ 	background-image: url(subway.jpg);
+ 	height: 500px; 
+ 	background-size: 100% 100%;
+  } 
+  .downpanel { 
+  	background-color: #1e8c27; 
+  	height: 450px;
+   } 
+   .footer {
+   	background-color: black; 
+   	height: 100px;
+   } 
+   .flex { 
+   	display: flex;
+    } 
+    .logo { 
+    	height: 50px; 
+    	width: 200px; 
+    	margin-left: 10px; 
+    	margin-top: 10px;  
+
+     } 
+     .btn { 
+      
+     	width: 150px; 
+     	height: 30px; 
+     	transition: 0.5s; 
+      color: green; 
+      background: #0e3a12;  
+      border: none;
+
+      } 
+      .btn:hover { 
+      	transition: 0.5s; 
+      	background: #23ff82; 
+       } 
+       .not2much { 
+       	margin-left: 80px; 
+       	margin-top: 10px;
+        } 
+        .left { 
+        	margin-left: 50px;
+         } 
+         .midbtn { 
+         	height: 50px; 
+         	width: 50px; 
+          margin-top: 200px; 
+          background: #0e3a12; 
+           border: none;
+          } 
+          .midbtn:hover { 
+            transition: 0.5s; 
+            background: #23ff82;
+           } 
+          .midbtn2 { 
+          	height: 50px; 
+          	width: 50px; 
+          	margin-top: 200px; 
+          	margin-left: 1399px; 
+          	color: black; 
+             border: none;  
+             background: #0e3a12;
+           } 
+           .midbtn2:hover { 
+           	transition: 0.5s; 
+      	    background: blue; 
+            background: #23ff82; 
+            } 
+           .info1 { 
+           	height: 300px; 
+           	width: 250px; 
+            background-image: url(sab.jpg); 
+            background-size: 100% 100%;
+            margin-left: 50px;
+            }  
+            .info2 { 
+            height: 300px; 
+            width: 250px; 
+            background-image: url(hyperbuter.jpg); 
+            background-size: 100% 100%;
+            margin-left: 50px;
+            }  
+            .info3 { 
+            height: 300px; 
+            width: 250px; 
+            background-image: url(normalbuter.jpg); 
+            background-size: 100% 100%;
+            margin-left: 50px;
+            } 
+            .infoposition { 
+            	margin-left: 20px; 
+            	margin-top: 30px;
+             } 
+             .left2 { 
+             	margin-left: 150px;
+              } 
+              .inst { 
+              	height: 40px; 
+              	width: 40px; 
+              	margin-left: 1399px; 
+              	margin-top: 25px; 
+                margin-left: 5px;
+               } 
+               .faceb { 
+               	height: 40px; 
+               	width: 40px; 
+               	margin-top: 25px; 
+               	margin-left: 5px; 
+                } 
+                .twit { 
+                	height: 40px; 
+                	width: 40px; 
+                	margin-top: 25px; 
+                	margin-left: 5px;
+                 } 
+                 .right { 
+                  margin-right: 15
+                  } 
+                  .coliotxt { 
+                    font-family: arial; 
+                    color: white; 
+                    font-size: 25px;
+                   } 
+                   .donw { 
+                    margin-top: 30px; 
+                    margin-left: 5px;
+                    } 
+                    .blacktxt { 
+                      font-family: arial; 
+                      color: black; 
+                      font-size: 25px;
+                     } 
+                     .nibba { 
+                      margin-left: 380px;
+                      } 
+                      .krutoytxt { 
+                        font-family: arial; 
+                        color: white; 
+                        font-size: 15px;
+                       } 
+                       .eh { 
+                        margin-left: 150px;
+                        }
